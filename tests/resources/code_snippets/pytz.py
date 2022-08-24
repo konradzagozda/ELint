@@ -10,4 +10,3 @@ print(now_utc.strftime(format))
 # Convert to Asia/Kolkata time zone
 now_asia = now_utc.astimezone(timezone('Asia/Kolkata'))
 print(now_asia.strftime(format))
-
