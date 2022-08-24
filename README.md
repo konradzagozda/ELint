@@ -1,5 +1,5 @@
 # ELint
-Python + language agnostic linter with rule definition capabilities
+Elastic Python + language agnostic linter with rule definition capabilities
 
 
 
